@@ -1,2 +1,2 @@
 # Podatkomierz
-A redirection to a new EuroTaxCalc repo
+This project has moved to: https://github.com/majmichu1/EuroTaxCalc
